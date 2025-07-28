@@ -16,8 +16,7 @@ This repository is dedicated to creating a sentiment analysis application powere
 
 ## Prerequirements
 
-- IBM Cloud IDE
-- IBM Watson NLP Library
+- Skills Network Labs
 
 ## Project Structure
 
@@ -44,7 +43,7 @@ Analyze a text entered by user as POSITIVE, NEGATIVE or NEUTRAL.
 
 ## Installation
 
-To run this project on IBM Cloud IDE, open the Terminal and follow these steps:
+To run this project on Skills Network Labs, open the Terminal and follow these steps:
 
 1. Clone the repository:
 
